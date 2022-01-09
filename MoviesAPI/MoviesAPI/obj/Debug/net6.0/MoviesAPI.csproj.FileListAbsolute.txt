@@ -25,3 +25,10 @@ C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\obj\Debug\net6.0\MoviesAP
 C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\obj\Debug\net6.0\ref\MoviesAPI.dll
 C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\obj\Debug\net6.0\MoviesAPI.pdb
 C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\obj\Debug\net6.0\MoviesAPI.genruntimeconfig.cache
+C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
