@@ -3,14 +3,15 @@ import { Link } from "react-router-dom";
 import Button from "../utils/Button";
 import * as Yup from 'yup';
 import TextField from '../forms/TextField'
-import * as genresModel from "./genres.model";
+import { genreCreationDTO } from "./genres.model";
 
 export default function GenreForm(props: genreFormProps){
     return (
         <Formik initialValues={props.model}
             onSubmit={props.onSubmit}
             validationSchema={Yup.object({
-                name: Yup.string().required('This field is required').firstLetterUppercase()
+                name: Yup.string().required('This field is required')
+                .max(50, 'Max length is 50 characters').firstLetterUppercase()
             })}
         >
             {(formikProps) => (
@@ -28,6 +29,6 @@ export default function GenreForm(props: genreFormProps){
 }
 
 interface genreFormProps{
-    model: genresModel.genreCreationDTO;
-    onSubmit(values: genresModel.genreCreationDTO, action: FormikHelpers<genresModel.genreCreationDTO>): void;
+    model: genreCreationDTO;
+    onSubmit(values: genreCreationDTO, action: FormikHelpers<genreCreationDTO>): void;
 }
