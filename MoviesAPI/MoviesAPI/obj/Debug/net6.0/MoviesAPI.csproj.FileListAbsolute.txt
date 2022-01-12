@@ -61,3 +61,4 @@ C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\runtimes
 C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\MoviesAPI.staticwebassets.runtime.json
