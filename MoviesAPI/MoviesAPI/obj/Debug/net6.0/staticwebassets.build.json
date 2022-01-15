@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vKSndy1VHIHjkgR+aZehkUcITAo6X7yyqKZU1z4vK8Y=",
+  "Hash": "Tq0Ob7+q2REWsnDGRuzK9CI2I2c1lqSA+nPpftHA6Oc=",
   "Source": "MoviesAPI",
   "BasePath": "_content/MoviesAPI",
   "Mode": "Default",
@@ -15,5 +15,74 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\TECHCOM\\Desktop\\Movie App\\MoviesAPI\\MoviesAPI\\wwwroot\\actors\\096e30f0-c44e-4ec8-a7a3-ba00cb58d37c.jpeg",
+      "SourceId": "MoviesAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TECHCOM\\Desktop\\Movie App\\MoviesAPI\\MoviesAPI\\wwwroot\\",
+      "BasePath": "_content/MoviesAPI",
+      "RelativePath": "actors/096e30f0-c44e-4ec8-a7a3-ba00cb58d37c.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actors\\096e30f0-c44e-4ec8-a7a3-ba00cb58d37c.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\TECHCOM\\Desktop\\Movie App\\MoviesAPI\\MoviesAPI\\wwwroot\\actors\\1220413c-2b67-493d-897a-f7d79668555f.png",
+      "SourceId": "MoviesAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TECHCOM\\Desktop\\Movie App\\MoviesAPI\\MoviesAPI\\wwwroot\\",
+      "BasePath": "_content/MoviesAPI",
+      "RelativePath": "actors/1220413c-2b67-493d-897a-f7d79668555f.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actors\\1220413c-2b67-493d-897a-f7d79668555f.png"
+    },
+    {
+      "Identity": "C:\\Users\\TECHCOM\\Desktop\\Movie App\\MoviesAPI\\MoviesAPI\\wwwroot\\movies\\87bc458e-8e58-4619-b289-a30c3538f946.jpeg",
+      "SourceId": "MoviesAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TECHCOM\\Desktop\\Movie App\\MoviesAPI\\MoviesAPI\\wwwroot\\",
+      "BasePath": "_content/MoviesAPI",
+      "RelativePath": "movies/87bc458e-8e58-4619-b289-a30c3538f946.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\movies\\87bc458e-8e58-4619-b289-a30c3538f946.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\TECHCOM\\Desktop\\Movie App\\MoviesAPI\\MoviesAPI\\wwwroot\\movies\\8b1a5b86-4f2d-47a1-a891-3913b5bf6e0a.jpeg",
+      "SourceId": "MoviesAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TECHCOM\\Desktop\\Movie App\\MoviesAPI\\MoviesAPI\\wwwroot\\",
+      "BasePath": "_content/MoviesAPI",
+      "RelativePath": "movies/8b1a5b86-4f2d-47a1-a891-3913b5bf6e0a.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\movies\\8b1a5b86-4f2d-47a1-a891-3913b5bf6e0a.jpeg"
+    }
+  ]
 }

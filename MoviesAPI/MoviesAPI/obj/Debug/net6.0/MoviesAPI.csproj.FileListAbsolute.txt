@@ -62,3 +62,8 @@ C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\runtimes
 C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\MoviesAPI.staticwebassets.runtime.json
+C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\NetTopologySuite.dll
+C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\obj\Debug\net6.0\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\TECHCOM\Desktop\Movie App\MoviesAPI\MoviesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll

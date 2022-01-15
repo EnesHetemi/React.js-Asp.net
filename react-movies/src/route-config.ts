@@ -13,9 +13,11 @@ import EditMovieTheater from "./movietheaters/EditMovieTheater";
 import CreateMovie from "./Movies/CreateMovie";
 import EditMovie from "./Movies/EditMovie";
 import FilterMovies from "./Movies/FilterMovies";
+import MovieDetails from "./Movies/MovieDetails";
 
 import LandingPage from "./Movies/LandingPage";
 import RedirectToLandingPage from './utils/RedirectToLandingPage';
+
 
 
 const routes = [
@@ -34,6 +36,8 @@ const routes = [
     {path: '/movies/create', component: CreateMovie},
     {path: '/movies/edit/:id(\\d+)', component: EditMovie},
     {path: '/movies/filter', component: FilterMovies},
+    {path: 'movie/:id(\\d+)', component: MovieDetails},
+
 
     {path: "/", component: LandingPage, exact: true},
     {path: '*', component: RedirectToLandingPage}
